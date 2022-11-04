@@ -2,8 +2,7 @@
 title: "Markdown"
 author: "LauerM"
 date: "2022-11-04"
-output: github_document:
-  keep_html: true
+output: html_document
 ---
 
 ```{r,echo=FALSE}
